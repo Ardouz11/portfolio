@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://rachid-ardouz.netlify.app"
 title = "Rachid ARDOUZ"
 theme = "hugo-coder"
 languageCode = "en"
@@ -17,10 +17,10 @@ author = "Rachid ARDOUZ"
 description = "Rachid ARDOUZ's Portfolio'"
 keywords = "blog,developer,personal"
 info = ["Full Stack Developer"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatar.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2019
+since = 2021
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
@@ -53,8 +53,8 @@ customJS = []
 # serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-# [params.goatCounter]
-# code = "code"
+[params.goatCounter]
+code = "code"
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
 # [params.cloudflare]
@@ -66,8 +66,8 @@ customJS = []
 # serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-# [params.googleTagManager]
-# id = "gid"
+#[params.googleTagManager]
+#id = "gid"
 
 # If you want to use Application Insights(https://azure.com/) for analytics, add this section
 # [params.applicationInsights]
@@ -119,7 +119,7 @@ url = "https://twitter.com/rachid_ardouz/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/rachid-ardouz/"
 
 [[params.social]]
 name = "Medium"
@@ -136,10 +136,10 @@ name = "About"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+#[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
@@ -166,10 +166,10 @@ name = "About"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+#[[languages.pt-br.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
 
 [[languages.pt-br.menu.main]]
 name = "Projets"

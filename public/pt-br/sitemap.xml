@@ -3,419 +3,419 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://rachid-ardouz.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://rachid-ardouz.netlify.app/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/css/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/css/"
+                href="https://rachid-ardouz.netlify.app/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/css/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/css/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/markdown-syntax/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/markdown-syntax/"
+                href="https://rachid-ardouz.netlify.app/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/markdown-syntax/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/markdown-syntax/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/series/guia-do-thema/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/series/guia-do-thema/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/html/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/html/"
+                href="https://rachid-ardouz.netlify.app/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/html/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/html/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/markdown/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/markdown/"
+                href="https://rachid-ardouz.netlify.app/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/markdown/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/markdown/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="https://rachid-ardouz.netlify.app/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://rachid-ardouz.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://rachid-ardouz.netlify.app/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/series/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://rachid-ardouz.netlify.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://rachid-ardouz.netlify.app/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/sintaxe/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://rachid-ardouz.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/temas/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/rich-content/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/rich-content/"
+                href="https://rachid-ardouz.netlify.app/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/rich-content/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/rich-content/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/privacy/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/privacy/"
+                href="https://rachid-ardouz.netlify.app/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/privacy/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/privacy/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/shortcodes/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/shortcodes/"
+                href="https://rachid-ardouz.netlify.app/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/shortcodes/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/shortcodes/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/more-rich-content/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/more-rich-content/"
+                href="https://rachid-ardouz.netlify.app/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/more-rich-content/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/more-rich-content/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/text/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/text/"
+                href="https://rachid-ardouz.netlify.app/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/text/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/text/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/placeholder-text/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/placeholder-text/"
+                href="https://rachid-ardouz.netlify.app/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/placeholder-text/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/placeholder-text/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/math-typesetting/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/math-typesetting/"
+                href="https://rachid-ardouz.netlify.app/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/math-typesetting/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/math-typesetting/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/emoji/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/emoji/"
+                href="https://rachid-ardouz.netlify.app/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/emoji/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/emoji/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/emoji-support/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
+                href="https://rachid-ardouz.netlify.app/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/emoji-support/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/development/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/development/"
+                href="https://rachid-ardouz.netlify.app/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/development/"
+                href="https://rachid-ardouz.netlify.app/pt-br/categories/development/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/development/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/development/"
+                href="https://rachid-ardouz.netlify.app/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/development/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/development/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/hugo/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://rachid-ardouz.netlify.app/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/hugo-coder-wiki/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/hugo-coder-wiki/"
+                href="https://rachid-ardouz.netlify.app/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/hugo-coder-wiki/"
+                href="https://rachid-ardouz.netlify.app/pt-br/posts/hugo-coder-wiki/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/themes/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/themes/"
+                href="https://rachid-ardouz.netlify.app/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/themes/"
+                href="https://rachid-ardouz.netlify.app/pt-br/tags/themes/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/about/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://rachid-ardouz.netlify.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://rachid-ardouz.netlify.app/pt-br/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/authors/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://rachid-ardouz.netlify.app/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://rachid-ardouz.netlify.app/pt-br/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/contact/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://rachid-ardouz.netlify.app/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://rachid-ardouz.netlify.app/pt-br/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/projects/</loc>
+    <loc>https://rachid-ardouz.netlify.app/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://rachid-ardouz.netlify.app/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="https://rachid-ardouz.netlify.app/pt-br/projects/"
                 />
   </url>
   

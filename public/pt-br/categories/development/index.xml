@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Rachid ARDOUZ</title>
-    <link>http://www.example.com/pt-br/categories/development/</link>
+    <link>https://rachid-ardouz.netlify.app/pt-br/categories/development/</link>
     <description>Recent content in Development on Rachid ARDOUZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pt-br/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rachid-ardouz.netlify.app/pt-br/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Página Externa: Wiki Hugo Coder</title>
-      <link>http://www.example.com/pt-br/posts/hugo-coder-wiki/</link>
+      <link>https://rachid-ardouz.netlify.app/pt-br/posts/hugo-coder-wiki/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/pt-br/posts/hugo-coder-wiki/</guid>
+      <guid>https://rachid-ardouz.netlify.app/pt-br/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
