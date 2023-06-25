@@ -6,4 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-I'm Rachid ARDOUZ a fullstack engineer at [inwi](https://inwi.ma) company based in morocco
+I'm Rachid ARDOUZ a fullstack engineer at [inwi](https://inwi.ma) company based in France

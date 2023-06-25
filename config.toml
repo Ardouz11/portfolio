@@ -136,47 +136,47 @@ name = "About"
 weight = 1
 url = "about/"
 
-#[[languages.en.menu.main]]
-#name = "Blog"
-#weight = 2
-#url = "posts/"
-
 [[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+name = "Blogs"
+weight = 2
+url = "blogs/"
+
+#[[languages.en.menu.main]]
+#name = "Projects"
+#weight = 3
+#url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
+[languages.fr]
 languageName = ":fr:"
 title = "Rachid ARDOUZ"
 
-[languages.pt-br.params]
+[languages.fr.params]
 author = "Rachid ARDOUZ"
 info = "Developpeur Full Stack"
 description = "Portfolio de Rachid ARDOUZ"
 keywords = "blog,desenvolvedor,pessoal"
 
-[[languages.pt-br.menu.main]]
+[[languages.fr.menu.main]]
 name = "About"
 weight = 1
 url = "about/"
 
-#[[languages.pt-br.menu.main]]
-#name = "Blog"
-#weight = 2
-#url = "posts/"
+[[languages.fr.menu.main]]
+name = "Blogs"
+weight = 2
+url = "blogs/"
 
-[[languages.pt-br.menu.main]]
-name = "Projets"
-weight = 3
-url = "projects/"
+#[[languages.fr.menu.main]]
+#name = "Projets"
+#weight = 3
+#url = "projects/"
 
-[[languages.pt-br.menu.main]]
+[[languages.fr.menu.main]]
 name = "Contact"
 weight = 5
 url = "contact/"
